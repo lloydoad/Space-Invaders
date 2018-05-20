@@ -10,4 +10,4 @@ Features:
 - Deleting unnecessary graphics (off screen bullets)
 - Disposing unnecessary graphics to reduce CPU usage
 
-- Lloyd Dapaah (nass)
+Created by Lloyd Dapaah (nass)
